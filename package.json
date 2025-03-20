@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/funkypizz4/teste-ebac-ui#readme",
   "dependencies": {
+    "@faker-js/faker": "^9.6.0",
     "cypress": "^14.2.0"
   }
 }
