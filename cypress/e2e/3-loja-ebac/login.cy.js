@@ -6,11 +6,11 @@ describe('Funcionalidade: Login', () => {
     beforeEach(() => {
         cy.visit('minha-conta')
     });
-/*
+
     afterEach(() => {
         cy.screenshot()
     });
-*/
+
     it('Deve fazer login com sucesso', () => {
         cy.get('#username').type('joao_teste@teste.com.br')
         cy.get('#password').type('senhateste')
