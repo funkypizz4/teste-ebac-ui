@@ -1,0 +1,20 @@
+[
+    {
+        "nomeProduto": "Selene Yoga Hoodie",
+        "tamanho": "M",
+        "cor": "Purple",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Celeste Sports Bra",
+        "tamanho": "L",
+        "cor": "Red",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Supernova Sport Pant",
+        "tamanho": "36",
+        "cor": "Black",
+        "quantidade": 4
+    }
+]
